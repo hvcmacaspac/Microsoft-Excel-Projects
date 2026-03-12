@@ -73,4 +73,4 @@ Built under pressure. Shipped anyway. 💪
 
 ---
 
-*Feel free to connect with me on [LinkedIn](#) if you have questions about the methodology!*
+*Feel free to connect with me on [[LinkedIn](#)](https://www.linkedin.com/in/hvcmacaspac/) if you have questions about the methodology!*
