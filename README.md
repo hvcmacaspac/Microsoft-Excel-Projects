@@ -57,8 +57,7 @@ With only 21 candidates processed vs. 1,031 (Health & Wellness) and 807 (Facilit
 ```
 /
 ├── README.md               ← You are here
-├── dashboard_preview.png   ← Screenshot of the full dashboard
-└── sample_data.xlsx        ← Anonymized sample data (optional)
+├── SourcingDashboard.png   ← Screenshot of the full dashboard
 ```
 
 > 🔒 **Data Privacy:** All candidate names have been anonymized or removed. Recruiter and sourcer names have been replaced with generic identifiers. Company-identifying details have been omitted in compliance with data privacy best practices.
